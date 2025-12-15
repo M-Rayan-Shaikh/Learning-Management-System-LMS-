@@ -36,7 +36,7 @@ Login Credentials
 
 Admin: Username: admin Password: admin123
 
-Or: Username: Ahmad Password: admin123
+Or: Username: Rayan Password: rayan123
 
 Notes
 The application uses local text files for database storage. Ensure the executable has write permissions to the working directory.
